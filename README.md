@@ -443,6 +443,7 @@ Name           | Address
 [Tribe](https://tonviewer.com/0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05) | EQCcXKwYGCCZnzQj9vwwg8Y-F3d8H7cow-Mwgj8pTFruBfP8
 [TrumpWifHat](https://tonviewer.com/0:d5ddc6f388f1f3f3011c0d8b7ef620cea2695cddb159412c745a26450afedf87) | EQDV3cbziPHz8wEcDYt-9iDOomlc3bFZQSx0WiZFCv7fh7oX
 [TryTON](https://tonviewer.com/0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9) | EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o
+[Tosa Inu](https://tonviewer.com/0:d90c8cdf50c1bc3bfaf632fd356439b469d4003d3403a4e4ded4cf655c1e854d)| EQBppBpoNlfyLMMXNRrPGLAX9MhW2rpGufWg54tynqkjIXRs
 [Twister The Dog](https://tonviewer.com/0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55) | EQDqrKJj1ZQeGTHSmjDkoe-1BrvKJ3tJzjWo-6y63lfvVU9R
 [UNICORN](https://tonviewer.com/0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25) | EQB2lbt2s_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P_JTrm
 [UTYAB](https://tonviewer.com/0:30eb766a2e69f0440efb3d6d3b0962049e0c20f9e222cac6aa67c216a542f49c) | EQAw63ZqLmnwRA77PW07CWIEngwg-eIiysaqZ8IWpUL0nP7a
